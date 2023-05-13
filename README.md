@@ -3,4 +3,4 @@
 
 
 Here is my current CV :
-[Mehul Gupta - Data Scientist / Lead Analyst - 4 years Experience]([/CV - Feb 2023/CV/MGUPTA_2023.pdf](https://github.com/Mehul-Gupta-SMH/CV---Code-Generated/blob/main/CV%20-%20Feb%202023/CV/MGUPTA_2023.pdf))
+[Mehul Gupta - Data Scientist / Lead Analyst - 4 years Experience](https://github.com/Mehul-Gupta-SMH/CV---Code-Generated/blob/main/CV%20-%20Feb%202023/CV/MGUPTA_2023.pdf)
