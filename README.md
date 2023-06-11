@@ -26,6 +26,7 @@ SOCIAL PROFILES
   * GitHub: https://github.com/Mehul-Gupta-SMH
 
 SKILLS
+
   ★★★★★ Python
   
   ★★★★★ SQL
