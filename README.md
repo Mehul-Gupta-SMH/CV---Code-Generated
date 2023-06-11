@@ -26,18 +26,18 @@ SOCIAL PROFILES
   * GitHub: https://github.com/Mehul-Gupta-SMH
 
 SKILLS
-  ★★★★★ Python
-  ★★★★★ SQL
-  ★★★★★ Excel
-  ★★★★★ Tableau
-  ★★★★☆ PySpark
-  ★★★★☆ Process Mining
-  ★★★★☆ NLP
-  ★★★★☆ Machine Learning
-  ★★★★☆ Deep Learning
-  ★★★★☆ Clustering
-  ★★★★☆ Regression
-  ★★★☆☆ Git
+  ★★★★★ Python \n
+  ★★★★★ SQL \n
+  ★★★★★ Excel \n 
+  ★★★★★ Tableau \n
+  ★★★★☆ PySpark \n
+  ★★★★☆ Process Mining \n
+  ★★★★☆ NLP \n
+  ★★★★☆ Machine Learning \n
+  ★★★★☆ Deep Learning \n
+  ★★★★☆ Clustering \n
+  ★★★★☆ Regression \n
+  ★★★☆☆ Git \n
 
 WORK EXPERIENCE
   * October 2021 – Present
